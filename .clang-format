@@ -1,0 +1,32 @@
+BasedOnStyle: "WebKit"
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+
+Language: Cpp
+ColumnLimit: 80
+
+AllowShortIfStatementsOnASingleLine: false
+AllowShortBlocksOnASingleLine: false
+
+BraceWrapping:
+  AfterClass: false
+  AfterControlStatement: false
+  AfterFunction: false
+  AfterNamespace: false
+  BeforeElse: false
+  IndentBraces: false
+
+BreakBeforeBraces: Attach
+
+SpacesInParentheses: false
+SpacesInSquareBrackets: false
+SpaceBeforeParens: ControlStatements
+
+PointerAlignment: Right
+
+AlignConsecutiveAssignments: false
+AlignConsecutiveDeclarations: false
+
+IncludeBlocks: Regroup
+SortIncludes: true
