@@ -1,5 +1,5 @@
 Id,Nombre,Apellido,Semestre,Carrera
-2,Anita,Gomez,8,Electronica
+2,Anita,Perez,8,Electronica
 3,Carlos,Pérez,9.5,Ingeniería
-4,Jose,Sanchez,9,Telecom
 5,Juan,Garcia,9,Telecom
+6,Jose,Sanchez,9,Telecom
